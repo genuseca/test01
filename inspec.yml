@@ -1,0 +1,10 @@
+name: inspec-git
+title: InSpec Learning Test
+maintainer: Genuseca
+copyright: Genuseca
+copyright_email: you@example.com
+license: All Rights Reserved
+summary: An exercise in building Centos profile
+version: 0.1.0
+supports:
+  platform: os
